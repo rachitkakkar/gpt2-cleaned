@@ -51,3 +51,6 @@ I kept it under the same license gpt-2 uses, because I didn't change much code, 
 
 # Original Code
 https://github.com/openai/gpt-2/
+
+# TODO
+Upload the 124M model. While I have it in my code, its not uploading due to size issues. I'm looking to find a workaround.
