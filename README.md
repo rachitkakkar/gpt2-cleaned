@@ -15,7 +15,7 @@ The model 124M is already installed, you will have to use donwload_model.py to d
 Predict:
 Used to generate text with a prompt, pass in a prompt and optionally change any of the parameters.
 
-```
+```python
 def predict(
     model_prompt,
     model_name='124M',
@@ -32,7 +32,7 @@ def predict(
 Sample Model:
 Used to generate text without a prompt, nothing you have to pass in but you can optionally change any of the parameters.
 
-```
+```python
 def sample_model(
     model_name='124M',
     seed=None,
