@@ -1,5 +1,5 @@
 # gpt2-cleaned
-Just a cleaned up and stripped down of the gpt2 model for personal use. Easy to set up and well documented, and I am not responsible for anything this model creates.
+Just a cleaned up and stripped down version of the gpt2 model for personal use. Easy to set up and well documented, and I am not responsible for anything this model creates.
 
 # Requirements 
 Listed in requirements.txt
