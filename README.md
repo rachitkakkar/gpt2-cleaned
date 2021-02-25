@@ -10,7 +10,7 @@ Runs python-3.6.8
 # How To Use
 Install requirements and use the `predict({prompt})` or `sample_model()` in textgen.py
 
-The model 124M is already installed, you will have to use donwload_model.py to download other models. It works the same way it works in the original gpt2 repo.
+The model 124M is already installed, you will have to use download_model.py to download other models. It works the same way it works in the original gpt2 repo.
 
 Predict:
 Used to generate text with a prompt, pass in a prompt and optionally change any of the parameters.
